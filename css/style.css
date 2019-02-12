@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'AksaraLampung';
+  src: url('../fonts/aksara-Lampung-Unila.ttf')  format('truetype');
+}
+
+.aksaraLampung {
+  font-family: 'AksaraLampung';
+    font-size: 2em;
+}
